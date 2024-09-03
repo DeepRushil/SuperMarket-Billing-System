@@ -44,4 +44,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ---
 
-Feel free to adjust any section according to your project specifics or preferences!
+
