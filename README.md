@@ -29,10 +29,11 @@ This is a Python-based GUI application designed to manage supermarket billing ef
 
 ## Screenshots
 
-Include screenshots of the application here.
+![image](https://github.com/user-attachments/assets/a0c5405a-7544-446e-8439-4e2600c2eea4)
+
 
 ## License
-
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
 
 ## Contact
